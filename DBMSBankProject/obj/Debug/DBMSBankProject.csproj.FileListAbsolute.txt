@@ -1,0 +1,54 @@
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\bin\Debug\DBMSBankProject.exe.config
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\bin\Debug\DBMSBankProject.exe
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\bin\Debug\DBMSBankProject.pdb
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.csprojResolveAssemblyReference.cache
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.Login.resources
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.Properties.Resources.resources
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.csproj.GenerateResource.Cache
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.exe
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.pdb
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.Personnel.resources
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.DepositingMoneyForm.resources
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.TransferingForm.resources
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.WithdrawalsForm.resources
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.BankStatementForm.resources
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.CustomerOperationsForm.resources
+c:\users\figen\documents\visual studio 2013\Projects\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.TransferingViewForm.resources
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\bin\Debug\DBMSBankProject.exe.config
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.exe
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.pdb
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\bin\Debug\DBMSBankProject.exe
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\bin\Debug\DBMSBankProject.pdb
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.csprojResolveAssemblyReference.cache
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.BankStatementForm.resources
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.CustomerOperationsForm.resources
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.DepositingMoneyForm.resources
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.Login.resources
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.Personnel.resources
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.Properties.Resources.resources
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.TransferingForm.resources
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.TransferingViewForm.resources
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.WithdrawalsForm.resources
+C:\Users\figen\Desktop\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.csproj.GenerateResource.Cache
+C:\Users\figen\Desktop\C#\DBMSBankProject\DBMSBankProject\bin\Debug\DBMSBankProject.exe.config
+C:\Users\figen\Desktop\C#\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.exe
+C:\Users\figen\Desktop\C#\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.pdb
+F:\DBMSBankProject\DBMSBankProject\bin\Debug\DBMSBankProject.exe.config
+F:\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.exe
+F:\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.pdb
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\bin\Debug\DBMSBankProject.exe.config
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\bin\Debug\DBMSBankProject.exe
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.csprojResolveAssemblyReference.cache
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.BankStatementForm.resources
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.CustomerOperationsForm.resources
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.DepositingMoneyForm.resources
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.Login.resources
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.Personnel.resources
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.Properties.Resources.resources
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.TransferingForm.resources
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.TransferingViewForm.resources
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.WithdrawalsForm.resources
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.csproj.GenerateResource.Cache
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.csproj.CoreCompileInputs.cache
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.exe
+C:\Users\Figen Sunal\Desktop\eski dersler\DBMSBankProject\DBMSBankProject\obj\Debug\DBMSBankProject.pdb
